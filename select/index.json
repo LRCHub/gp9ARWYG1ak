@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "base_track": "だれかの心臓になれたなら",
+  "base_track": "だれかの心臓になれたなら /ユリイ・カノン feat.GUMI",
   "base_artist": "ユリイ・カノン",
-  "createdAt": "2026-03-18T17:09:38.989742Z",
+  "createdAt": "2026-04-02T08:28:00.308607Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -95,34 +95,34 @@
     {
       "id": "lrclib_12",
       "source": "lrclib",
-      "title": "だれかの心臓になれたなら(月詠みCover Ver.)",
-      "artist": "ユリイ・カノン",
-      "has_synced": true,
-      "path": "select/12_だれかの心臓になれたなら(月詠みCover_Ver.)_ユリイ・カノン.lrc"
+      "title": "だれかの心臓になれたなら",
+      "artist": "Various Artists",
+      "has_synced": false,
+      "path": "select/12_だれかの心臓になれたなら_Various_Artists.txt"
     },
     {
       "id": "lrclib_13",
       "source": "lrclib",
       "title": "だれかの心臓になれたなら",
-      "artist": "Various Artists",
+      "artist": "VA",
       "has_synced": false,
-      "path": "select/13_だれかの心臓になれたなら_Various_Artists.txt"
+      "path": "select/13_だれかの心臓になれたなら_VA.txt"
     },
     {
       "id": "lrclib_14",
       "source": "lrclib",
-      "title": "だれかの心臓になれたなら (月詠みCover Ver.)",
+      "title": "だれかの心臓になれたなら(月詠みCover Ver.)",
       "artist": "ユリイ・カノン",
       "has_synced": true,
-      "path": "select/14_だれかの心臓になれたなら_(月詠みCover_Ver.)_ユリイ・カノン.lrc"
+      "path": "select/14_だれかの心臓になれたなら(月詠みCover_Ver.)_ユリイ・カノン.lrc"
     },
     {
       "id": "lrclib_15",
       "source": "lrclib",
-      "title": "だれかの心臓になれたなら",
-      "artist": "VA",
-      "has_synced": false,
-      "path": "select/15_だれかの心臓になれたなら_VA.txt"
+      "title": "だれかの心臓になれたなら (月詠みCover Ver.)",
+      "artist": "ユリイ・カノン",
+      "has_synced": true,
+      "path": "select/15_だれかの心臓になれたなら_(月詠みCover_Ver.)_ユリイ・カノン.lrc"
     },
     {
       "id": "petitlyrics_1",
@@ -135,11 +135,20 @@
     {
       "id": "localdb_1",
       "source": "localdb",
-      "title": "だれかの心臓になれたなら",
+      "title": "だれかの心臓になれたなら /ユリイ・カノン feat.GUMI",
       "artist": "ユリイ・カノン",
       "has_synced": true,
-      "path": "select/localdb_01_だれかの心臓になれたなら_ユリイ・カノン.lrc",
+      "path": "select/localdb_01_だれかの心臓になれたなら__ユリイ・カノン_feat.GUMI_ユリイ・カノン.lrc",
       "repo_name": "hZFBTnzKa54"
+    },
+    {
+      "id": "localdb_2",
+      "source": "localdb",
+      "title": "だれかの心臓になれたなら /ユリイ・カノン feat.GUMI",
+      "artist": "ユリイ・カノン",
+      "has_synced": true,
+      "path": "select/localdb_02_だれかの心臓になれたなら__ユリイ・カノン_feat.GUMI_ユリイ・カノン.lrc",
+      "repo_name": "gp9ARWYG1ak"
     }
   ]
 }
